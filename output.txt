@@ -6,10 +6,6 @@
     <head><meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-        <title>
-C E R E N 👸🏻 (@cereenari) • Instagram photos and videos
-</title>
-
         <script type="text/javascript">
   WebFontConfig = {
     custom: {
@@ -222,100 +218,6 @@ C E R E N 👸🏻 (@cereenari) • Instagram photos and videos
             
     
     
-            <link rel="alternate" href="android-app://com.instagram.android/https/instagram.com/_u/cereenari/" />
-        
-            <meta property="al:ios:app_name" content="Instagram" />
-            <meta property="al:ios:app_store_id" content="389801252" />
-            <meta property="al:ios:url" content="instagram://user?username=cereenari" />
-            <meta property="al:android:app_name" content="Instagram" />
-            <meta property="al:android:package" content="com.instagram.android" />
-            <meta property="al:android:url" content="https://www.instagram.com/_u/cereenari/" />
-        <link rel="canonical" href="https://www.instagram.com/cereenari/" /><meta name="description" content="See Instagram photos and videos from C E R E N 👸🏻 (@cereenari)" />
-            <meta property="og:type" content="profile" />
-            <meta property="og:image" content="https://scontent-frt3-1.cdninstagram.com/t51.2885-19/s150x150/16584815_363058774077727_2794370357740437504_a.jpg" />
-            <meta property="og:title" content="C E R E N 👸🏻 (@cereenari) • Instagram photos and videos" />
-            <meta property="og:description" content="See Instagram photos and videos from C E R E N 👸🏻 (@cereenari)" />
-            <meta property="og:url" content="https://www.instagram.com/cereenari/" />
-        
-    <link rel="alternate" href="https://www.instagram.com/cereenari/" hreflang="x-default" />
-<link rel="alternate" href="https://www.instagram.com/cereenari/?hl=ur" hreflang="ur" />
-<link rel="alternate" href="https://www.instagram.com/cereenari/?hl=ms" hreflang="ms" />
-<link rel="alternate" href="https://www.instagram.com/cereenari/?hl=cs" hreflang="cs" />
-<link rel="alternate" href="https://www.instagram.com/cereenari/?hl=gu" hreflang="gu" />
-<link rel="alternate" href="https://www.instagram.com/cereenari/?hl=zh-cn" hreflang="zh-cn" />
-<link rel="alternate" href="https://www.instagram.com/cereenari/?hl=ta" hreflang="ta" />
-<link rel="alternate" href="https://www.instagram.com/cereenari/?hl=sv" hreflang="sv" />
-<link rel="alternate" href="https://www.instagram.com/cereenari/?hl=pl" hreflang="pl" />
-<link rel="alternate" href="https://www.instagram.com/cereenari/?hl=el" hreflang="el" />
-<link rel="alternate" href="https://www.instagram.com/cereenari/?hl=pt" hreflang="pt" />
-<link rel="alternate" href="https://www.instagram.com/cereenari/?hl=si" hreflang="si" />
-<link rel="alternate" href="https://www.instagram.com/cereenari/?hl=ro" hreflang="ro" />
-<link rel="alternate" href="https://www.instagram.com/cereenari/?hl=te" hreflang="te" />
-<link rel="alternate" href="https://www.instagram.com/cereenari/?hl=af" hreflang="af" />
-<link rel="alternate" href="https://www.instagram.com/cereenari/?hl=fr" hreflang="fr" />
-<link rel="alternate" href="https://www.instagram.com/cereenari/?hl=nl" hreflang="nl" />
-<link rel="alternate" href="https://www.instagram.com/cereenari/?hl=fi" hreflang="fi" />
-<link rel="alternate" href="https://www.instagram.com/cereenari/?hl=de" hreflang="de" />
-<link rel="alternate" href="https://www.instagram.com/cereenari/?hl=id" hreflang="id" />
-<link rel="alternate" href="https://www.instagram.com/cereenari/?hl=pt-br" hreflang="pt-br" />
-<link rel="alternate" href="https://www.instagram.com/cereenari/?hl=nb" hreflang="nb" />
-<link rel="alternate" href="https://www.instagram.com/cereenari/?hl=zh-tw" hreflang="zh-tw" />
-<link rel="alternate" href="https://www.instagram.com/cereenari/?hl=tl" hreflang="tl" />
-<link rel="alternate" href="https://www.instagram.com/cereenari/?hl=zh-hk" hreflang="zh-hk" />
-<link rel="alternate" href="https://www.instagram.com/cereenari/?hl=ko" hreflang="ko" />
-<link rel="alternate" href="https://www.instagram.com/cereenari/?hl=da" hreflang="da" />
-<link rel="alternate" href="https://www.instagram.com/cereenari/?hl=sr" hreflang="sr" />
-<link rel="alternate" href="https://www.instagram.com/cereenari/?hl=bn" hreflang="bn" />
-<link rel="alternate" href="https://www.instagram.com/cereenari/?hl=fr-ca" hreflang="fr-ca" />
-<link rel="alternate" href="https://www.instagram.com/cereenari/?hl=uk" hreflang="uk" />
-<link rel="alternate" href="https://www.instagram.com/cereenari/?hl=pa" hreflang="pa" />
-<link rel="alternate" href="https://www.instagram.com/cereenari/?hl=hr" hreflang="hr" />
-<link rel="alternate" href="https://www.instagram.com/cereenari/?hl=hi" hreflang="hi" />
-<link rel="alternate" href="https://www.instagram.com/cereenari/?hl=bg" hreflang="bg" />
-<link rel="alternate" href="https://www.instagram.com/cereenari/?hl=es" hreflang="es" />
-<link rel="alternate" href="https://www.instagram.com/cereenari/?hl=hu" hreflang="hu" />
-<link rel="alternate" href="https://www.instagram.com/cereenari/?hl=th" hreflang="th" />
-<link rel="alternate" href="https://www.instagram.com/cereenari/?hl=it" hreflang="it" />
-<link rel="alternate" href="https://www.instagram.com/cereenari/?hl=mr" hreflang="mr" />
-<link rel="alternate" href="https://www.instagram.com/cereenari/?hl=vi" hreflang="vi" />
-<link rel="alternate" href="https://www.instagram.com/cereenari/?hl=tr" hreflang="tr" />
-<link rel="alternate" href="https://www.instagram.com/cereenari/?hl=kn" hreflang="kn" />
-<link rel="alternate" href="https://www.instagram.com/cereenari/?hl=ml" hreflang="ml" />
-<link rel="alternate" href="https://www.instagram.com/cereenari/?hl=ne" hreflang="ne" />
-<link rel="alternate" href="https://www.instagram.com/cereenari/?hl=ru" hreflang="ru" />
-<link rel="alternate" href="https://www.instagram.com/cereenari/?hl=sk" hreflang="sk" />
-<link rel="alternate" href="https://www.instagram.com/cereenari/?hl=en" hreflang="en" />
-<link rel="alternate" href="https://www.instagram.com/cereenari/?hl=ja" hreflang="ja" />
-    
-</head>
-    <body class="">
-        
-    <span id="react-root"></span>
-
-        
-
-        
-            <script src=/static/scripts/polyfills/es5-shim.min.js/6514c5e08593.js></script>
-<script src=/static/scripts/polyfills/es5-sham.min.js/fc3c22cf2d67.js></script>
-<script type="text/javascript">window._sharedData = {"show_app_install": true, "qe": {"deact": {"p": {}, "g": ""}, "feed": {"p": {}, "g": ""}, "discovery": {"p": {}, "g": ""}, "poe": {"p": {"try_email_and_phone_login": "false", "show_phone_or_email_text": "false"}, "g": "try_email_and_phone_login_control_05"}, "su_universe": {"p": {}, "g": ""}, "br": {"p": {}, "g": ""}, "ebd": {"p": {}, "g": ""}, "gql": {"p": {}, "g": ""}, "sidecar": {"p": {}, "g": ""}, "nav": {"p": {}, "g": ""}, "us": {"p": {}, "g": ""}, "profile": {"p": {}, "g": ""}, "us_li": {"p": {}, "g": ""}}, "activity_counts": null, "config": {"viewer": null, "csrf_token": "13s9FNdmnfzKUoK3Lj63QyrgME4mrsJG"}, "environment_switcher_visible_server_guess": true, "language_code": "en", "display_properties_server_guess": {"viewport_width": 360, "pixel_ratio": 1.5}, "hostname": "www.instagram.com", "platform": "web", "country_code": "TR", "gatekeepers": {"ld": true}, "entry_data": {"ProfilePage": [{"user": {"connected_fb_page": null, "biography": "Near East University-Cyprus\ud83d\udc89 Nursing", "has_blocked_viewer": false, "has_requested_viewer": false, "media": {"page_info": {"has_next_page": true, "end_cursor": "AQC488MCnYptJt6qlUbx3FnuAGV4jQgqvGdgP4KOliVDNtxn1bWX6dlKTJz6Hi_oUURxDFlWuKiKFPB8-16vqj0478Q8zMnje_oyPpyPunf73vfx4jSU_smW8USM4oMiI94"}, "count": 82, "nodes": []}, "follows": {"count": 179}, "full_name": "C E R E N \ud83d\udc78\ud83c\udffb", "requested_by_viewer": false, "profile_pic_url_hd": "https://scontent-frt3-1.cdninstagram.com/t51.2885-19/s320x320/16584815_363058774077727_2794370357740437504_a.jpg", "external_url": null, "profile_pic_url": "https://scontent-frt3-1.cdninstagram.com/t51.2885-19/s150x150/16584815_363058774077727_2794370357740437504_a.jpg", "country_block": false, "id": "432613432", "is_verified": false, "is_private": true, "followed_by_viewer": false, "external_url_linkshimmed": null, "username": "cereenari", "follows_viewer": false, "followed_by": {"count": 562}, "blocked_by_viewer": false}, "logging_page_id": "profilePage_432613432"}]}};</script>
-<script crossorigin="anonymous" src="/static/bundles/en_US_Commons.js/af964e88bf0c.js" type="text/javascript"></script>
-<script crossorigin="anonymous" src="/static/bundles/en_US_ProfilePage.js/eac5bbc1ead2.js" type="text/javascript"></script>
-                
-<script>
-!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
-n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
-t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
-document,'script','//connect.facebook.net/en_US/fbevents.js');
-
-fbq('init', '1425767024389221');
-
-fbq('track', 'PageView');
-
-
-</script>
-<noscript>
-
 
 </noscript>
 
